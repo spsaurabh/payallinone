@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PayAllinOne</string>
+    <string name="lbllogin">Login!</string>
+    <string name="entrusrnm">Enter Username!</string>
+    <string name="entrpass">Enter Password</string>
+    <string name="wnttosignup">Want to Signup First?</string>
+    <string name="frgttpass">Forget Password?</string>
+    <string name="singup">SignUp!</string>
+    <string name="entrname">Enter Name</string>
+    <string name="entremail">Enter Email</string>
+    <string name="entrmobile">Enter Mobile</string>
+    <string name="entraddress">Enter Address</string>
+    <string name="enterusrnm">Enter Username</string>
+    <string name="entrvldemail">Enter Valid Email</string>
+    <string name="lginsuccess">Login Successful</string>
+    <string name="inedinternet">I need Internet</string>
+    <string name="athfldor">Authentication Failed,or email already used,try with different email</string>
+    <string name="msg_pls_try_ltr">Something went wrong,please try again</string>
+    <string name="fldcnntempt">Fields cannot be empty</string>
+    <string name="lblusecurrlocation">Use Current Location!</string>
+    <string name="addrntfound">Address not found, Try again</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

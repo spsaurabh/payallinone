@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mHome"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home"  />
+    <item
+        android:id="@+id/mSettlement"
+        android:icon="@drawable/baseline_escalator_warning_24"
+        android:title="Settlement" />
+    <item
+        android:id="@+id/mReport"
+        android:icon="@drawable/baseline_report_24"
+        android:title="Report" />
+    <item
+        android:id="@+id/mMenu"
+        android:icon="@drawable/baseline_dehaze_24"
+        android:title="Menu" />
+</menu>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547225148493",
+    "project_id": "payallinone",
+    "storage_bucket": "payallinone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547225148493:android:4c09233eef5d7f471b9004",
+        "android_client_info": {
+          "package_name": "com.example.payallinone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbkq7hiGzAKChCSLi2gjCrFG2nZwLvKtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
